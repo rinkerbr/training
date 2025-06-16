@@ -1,1 +1,3 @@
+name: Hello.yaml
+
 print ("Hello world!")
